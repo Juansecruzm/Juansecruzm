@@ -2,7 +2,7 @@
 
 Data Science Engineering Student and Trilingual Quality Assurance Analyst with more than 8 years of experience in global operations, quality management, and customer support.
 
-Currently supporting content moderation and quality operations for a leading global social media platform across Brazil and Spanish-speaking Latin American marke
+Currently supporting content moderation and quality operations for a leading global social media platform across Brazil and Spanish-speaking Latin American markets
 ## Skills
 
 * SQL
