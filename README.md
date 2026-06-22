@@ -34,6 +34,15 @@ Currently supporting content moderation and quality operations for a leading glo
 - Business Intelligence Full-Stack: Modelado y Reporting Decisivo con Power BI (Universidad ECCI)
 - Excel Intermedio a Avanzado (Politécnico Grancolombiano)
 
+## Career Interests
+
+- Data Analytics
+- Business Intelligence
+- Machine Learning
+- Financial Analytics
+- Risk Analytics
+- Data Science
+
 ## Upcoming Projects
 
 * Credit Risk Prediction
